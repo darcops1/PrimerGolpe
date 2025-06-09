@@ -1,0 +1,7 @@
+## Interface: 100105
+## Title: PrimerGolpe
+## Notes: Registrador de combates para grupos y bandas
+## Author: Darcop
+## Version: 1.0.0
+
+PrimerGolpe.lua
